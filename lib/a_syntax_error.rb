@@ -1,5 +1,4 @@
-do
-x = 1
+x = 1 do
 end
 
 x =
