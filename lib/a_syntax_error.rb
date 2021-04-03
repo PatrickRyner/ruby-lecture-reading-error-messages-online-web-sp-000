@@ -1,4 +1,4 @@
 x = 1 do
-end
+end-of-input
 
 x =
